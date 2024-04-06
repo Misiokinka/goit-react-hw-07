@@ -1,0 +1,10 @@
+.searchText {
+    margin: 10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.inputSearch {
+    padding: 4px 11px;
+    width: 35%;
+}

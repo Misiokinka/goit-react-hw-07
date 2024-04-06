@@ -1,0 +1,38 @@
+.contactsBlock {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 8px 6px;
+    max-width: 200px;
+    width: 100%;
+    border-radius: 4px;
+    background-color: white;
+
+}
+
+.contactsItems {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.contactItem {
+    margin-left: 5px;
+    font-size: 10px;
+
+}
+
+span {
+    display: flex;
+}
+
+p {
+    margin: 0;
+}
+
+.btnDeleteContact {
+    height: 20px;
+    margin-top: 4px;
+    font-size: 10px;
+}
